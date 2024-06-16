@@ -9,13 +9,13 @@
 - **生日：** 1999.11.08
 - **籍贯：** 湖南邵阳
 - **手机：** 18229447211
-- **邮箱：** 2856024429@qq.com1
+- **邮箱：** 2856024429@qq.com
 
 {.list}
 :::
 
 ::: {.right}
-![李毅慧](./me.jpg =127x170){.portrait}
+![李毅慧](./head.jpeg =127x170){.portrait}
 :::
 
 ::::
@@ -55,7 +55,7 @@
 
 **工作内容：**
 
-- 负责问鼎云学习系统的开发和重构及维护，负责线上产品端服务的同步。
+- 负责问鼎云学习系统的开发和重构及维护，负责线上产品端服务的同步
 
 ## 项目经验
 
@@ -91,7 +91,7 @@
 
 **时间：** 2022.10 - 至今
 
-**技术栈：**Spring Boot、MyBatis、MyBatis-Plus、MySQL、Redis、RabbitMQ、Activiti、阿里云IoT、Docker
+**技术栈：** Spring Boot、MyBatis、MyBatis-Plus、MySQL、Redis、RabbitMQ、Activiti、阿里云IoT、Docker
 
 **项目介绍：** 该项目是一个企业ERP和物联网IoT相结合的项目，用于公司项目和流程管理，以及物联网设备管理。
 
@@ -104,16 +104,15 @@
 - PC 端：基于高德地图的多边形绘制、编辑、拖拽、复制、面积计算等。
 - PC 端：地图海量 `marks` 绘制，用于展示区域内企业。
 - 小程序端：基于微信小程序 `map` 组件的地图多边形绘制，绘制方式以人力行走的路线绘制，并最终作为多边形储存，并且可在后台运行。
+- 
 
 ### 问鼎云学习
 
-**技术栈：**微服务架构、各模块独立数据库、Spring Boot、Open Feign、MyBatis-Plus、MySQL、Redis、RabbitMQ、Minio、Docker、Kubernetes（K8s）、Service Mesh、Istio
+**技术栈：** 微服务架构、各模块独立数据库、Spring Boot、Open Feign、MyBatis-Plus、MySQL、Redis、RabbitMQ、Minio、Docker、Kubernetes（K8s）、Service Mesh、Istio
 
 **项目介绍：** 问鼎云学习是一个面向企业内部员工的在线学习和培训平台，包括用户、文件、课程、讲师、考试、学习项目、直播、调研、评价、闯关等模块。每个模块作为一个独立的服务，正式环境采用Kubernetes（K8s）和Istio实现部署，实现负载均衡，业务与运维分离。
 
 **时间：** 2021.06 - 2022.10
-
-
 
 **项目职责：**
 
@@ -158,13 +157,7 @@
 
 ## 个人优势 {data-print style="--print-padding: 50px 0 0 0"}
 
-**经验丰富：** 前端 7 年、社会 16 年
 
-**热爱学习：** 包括但不限于早通勤看技术书籍、晚通勤看教学视频等。
-
-**代码洁癖：** 个人认为，必须有高效的编程功力才能在项目急迫的时候依然书写出优雅的代码。
-
-**抗压力强：** 只要钱到位，996 也不是不行。
 
 ## 致谢
 
