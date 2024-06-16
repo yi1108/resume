@@ -15,7 +15,7 @@
 :::
 
 ::: {.right}
-![岳晓亮](./me.jpg =127x170){.portrait}
+![李毅慧](./me.jpg =127x170){.portrait}
 :::
 
 ::::
@@ -171,7 +171,7 @@
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 ::: {.main-footer}
-[下载 PDF 版](岳晓亮个人简历.pdf){download="岳晓亮个人简历.pdf"}
+[下载 PDF 版](李毅慧-Java-3年.pdf){download="李毅慧-Java-3年.pdf"}
 
 [打印简历](#){#print-button}
 :::
