@@ -51,4 +51,4 @@ jobs:
           target_branch: gh-pages
           build_dir: dist
         env:
-          GH_PAT: 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
+          GH_PAT: ${{ secrets.ACTION_TOKEN }}
